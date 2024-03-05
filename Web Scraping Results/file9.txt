@@ -1,0 +1,17 @@
+Global Map of Oil Palm Plantations
+
+2019-01-01T00:00:00Z–2019-12-31T00:00:00
+
+Biopama programme
+https://doi.org/10.5281/zenodo.4473715
+
+biodiversity
+conservation
+crop
+global
+landuse
+
+classification
+1
+2
+3
