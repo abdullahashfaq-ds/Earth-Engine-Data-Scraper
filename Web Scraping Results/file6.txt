@@ -1,0 +1,16 @@
+Australian 5M DEM
+
+2015-12-01T00:00:00Z–2015-12-01T00:00:00
+
+Geoscience Australia
+https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/89644
+
+australia
+dem
+elevation
+ga
+geophysical
+geoscience-australia
+lidar
+
+elevation

@@ -1,0 +1,17 @@
+DEM-H: Australian SRTM Hydrologically Enforced Digital Elevation Model
+
+2010-02-01T00:00:00Z–2010-02-01T00:00:00
+
+Geoscience Australia
+https://www.ga.gov.au/metadata-gateway/metadata/record/72759/
+
+australia
+dem
+elevation
+ga
+geophysical
+geoscience-australia
+smoothed
+srtm
+
+elevation

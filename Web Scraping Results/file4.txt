@@ -1,0 +1,15 @@
+AHN Netherlands 0.5m DEM, Raw Samples
+
+2012-01-01T00:00:00Z–2012-01-01T00:00:00
+
+AHN
+https://www.ahn.nl/index.html
+
+ahn
+dem
+elevation
+geophysical
+lidar
+netherlands
+
+elevation
