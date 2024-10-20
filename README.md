@@ -20,8 +20,8 @@ To set up and run the scraper, follow these steps:
 1. **Clone the Repository**
 
     ```bash
-    git clone git@github.com:abdullahashfaq-ds/Earth-Engine-Data-Scrapper.git
-    cd Earth-Engine-Data-Scrapper
+    git clone git@github.com:abdullahashfaq-ds/Earth-Engine-Data-Scraper.git
+    cd Earth-Engine-Data-Scraper
     ```
 
 2. **Create and Activate a Virtual Environment**
